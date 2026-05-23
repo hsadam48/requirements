@@ -3,3 +3,5 @@ pandas
 openpyxl
 xlsxwriter
 fpdf2==2.7.9
+pdfplumber
+pymupdf
